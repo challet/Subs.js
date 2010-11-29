@@ -1,0 +1,1 @@
+files: [MooPlay.js, Utils.js, Subtitle/Item.js, Subtitle/Tree.js, Subtitle/Loader.js, Subtitle/Player.js, Subtitle/Parser/Base.js, Subtitle/Parser/SubRip.js, Subtitle/Parser/SubViewer.js]
